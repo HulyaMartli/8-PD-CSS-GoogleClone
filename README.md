@@ -1,4 +1,4 @@
-# Patika.dev CSS Task 2 - Designing the Google Home Page 1998 version 
+# Patika.dev CSS Task 3 - Creating the Clone of Current Google Home Page 
 
 ## Google Clone
 
