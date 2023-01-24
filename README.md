@@ -2,7 +2,7 @@
 
 ## Google Clone
 
-This is the clone og Google Home Page (2022/12) I created for [Task 3](https://app.patika.dev/courses/css/cssodev3) in the CSS course as part of the Beginner Frontend Web Development Path in [patika.dev](https://patika.dev/).
+This is the clone of Google Home Page (2022/12) I created for [Task 3](https://app.patika.dev/courses/css/cssodev3) in the CSS course as part of the Beginner Frontend Web Development Path in [patika.dev](https://patika.dev/).
 
 
 ## Preview
