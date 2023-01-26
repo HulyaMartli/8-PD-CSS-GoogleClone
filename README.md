@@ -34,6 +34,4 @@ This is the clone of Google Home Page (2022/12) I created for [Task 3](https://a
 
 ### My patika.dev profile
 
-[Hulya Martli](https://app.patika.dev/hulyamartli)
-
-![patika.dev logo](https://kpm.metu.edu.tr/wp-content/uploads/2022/03/patikaLogo-2.png)
+<a href="https://app.patika.dev/hulyamartli"><img src="https://lh3.googleusercontent.com/pw/AMWts8DDaslCyOx3O92hkQj2cbszknAS3WSaQVoch6Vhy6esCHip8gWN6lOIK-mtard_bBQDrgWVeOIsfoPT3V-bMFtq14Ju5tXG2KTDVhu0myNbQyJbkFSDcvdr_VnTXBFJ2Q22pUGHAnPX7o5cOdeV5ulQFQ=w293-h134-no?authuser=0" width="100" alt="PatikaDev Logo"></a>
